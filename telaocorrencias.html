@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="src/css/prototipo.css">
+</head>
+<body>
+    
+<section class="paginaocorrencias">
+    <div class="paginadois">   
+        <div class="menu">
+            <div class="mascote">
+                <img src="./src/assets/img/mascotesemfundo.png" alt="Mascote Cidade em Foco">
+            </div>
+            <h1>Ponto<br>a ponto</h1>
+            <p class="slogan">Sua região tem voz. Você da visibilidade</p>
+        <div class="opcoes-menu">
+        <a href="prototipo.html" >
+            <img src="./src/assets/img/localizacao.png" alt="icon localização">
+             Mapa
+        </a>
+
+        <a href="#" class="selecionado">
+            <img src="./src/assets/img/clipboard.png" alt="icon Checklist">
+            Minhas Ocorrências
+        </a>
+
+        <div class="voltarvitrine">
+            <a href="index.html"><button>Voltar para vitrine</button></a>
+        </div>
+
+
+    </div>
+
+</div>
+    <div class="conteudodecima">
+        <div class="topo">
+            <p> ← Voltar para o mapa </p>
+                    
+        <div class="icon">
+            <img src="./src/assets/img/icon.png" alt="ICON ">
+        </div>    
+        </div>
+
+
+<section class="card">
+    <div class="titulo-formulario">
+        <h2>Registrar ocorrência</h2>
+        <p>Ajude a melhorar sua cidade. Conte para nós o que aconteceu!</p>
+    </div>
+    <form id="formulario" action="./index.html" method="GET" enctype="multipart/form-data" class="formulario-ocorrencia">
+        <div class="campos-formulario">
+            <div class="campo">
+                <label for="categoria">Categoria do problema</label>
+                    <select id="categoria" name="categoria" >
+                        <option value="">Selecione uma categoria</option>
+                        <option value="buraco">Buraco na via</option>
+                        <option value="iluminacao">Iluminação pública</option>
+                        <option value="lixo">Acúmulo de lixo</option>
+                        <option value="sinalizacao">Sinalização</option>
+                        <option value="calcada">Calçada danificada</option>
+                        <option value="outro">Outro</option>
+                    </select>
+            </div>
+
+                <div class="campo">
+                    <label for="titulo">Título da ocorrência <span>*</span></label>
+                    <input
+                        type="text"
+                        id="titulo"
+                        name="titulo"
+                        placeholder="Ex: Buraco na via"
+                        
+                    >
+                </div>
+
+                <div class="campo">
+                    <label for="descricao">Descrição <span>*</span></label>
+
+                    <textarea
+                        id="descricao"
+                        name="descricao"
+                        placeholder="Conte mais detalhes sobre o problema..."
+                        maxlength="500"
+                        
+                    ></textarea>
+                </div>
+
+            </div>
+
+
+        <div class="coluna">
+
+                <label for="arquivo" class="botao-anexar">
+                     Anexar arquivo <br>
+                </label>
+                <div class="anexar">
+                <input
+                    type="file"
+                    id="arquivo"
+                    name="arquivo"
+                    accept="image/png,image/jpeg,application/pdf"
+                >
+                </div>
+                <button type="submit" onclick="return camposvazios()">
+                    Enviar ocorrência
+                </button>
+            </div>
+
+        </form>
+             
+
+
+    </section>
+</section>
+
+
+</body>
+</html>
