@@ -7,6 +7,12 @@ body {
     padding: 0;
     color: #0B2D39;
     font-family: "Nunito";
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #ffffff;
 }
 
 h2 {
@@ -19,7 +25,7 @@ h2 {
 
 header {
     background-image: url(../assets/img/AdobeStock_301737834.jpeg);
-    height: 770px;
+    height: 800px;
     width: 100%;
     text-align: center;
 }
@@ -29,6 +35,30 @@ h1 {
     margin: 0;  
     text-align: center;  
     padding: 20px;
+}
+
+hr {
+    border: 2px solid #0B2D39;
+    margin: 50px 70px;
+}
+
+h4 {
+    margin: 0;
+}
+
+footer {
+    padding: 20px;
+    background-color: #0B2D39;
+    color: #ffff;
+    text-align: center;
+    font-size: 15px;
+}
+
+#menu {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 
 #logo-img {
@@ -90,8 +120,10 @@ h1 {
 }
 
 #problema {
-    height: 670px;
+    height: 950px;
     background-color: #E0F1E2;
+    text-align: center;
+    padding: 0px 200px;
 }
 
 .titulo-sessao {
@@ -129,7 +161,7 @@ h1 {
 
 #publico-alvo {
     background-color: #FFF4D8;
-    height: 500px;
+    height: 550px;
 }
 
 #card-ben1 {
@@ -157,15 +189,19 @@ h1 {
 
 #objetivos {
     background-color: #E0F1E2;
+    justify-content: center;
+    text-align: center;
+    height: 1050px;
 }
 
 #tecnologia {
     background-color: #FFF4D8;
+    padding: 20px 20px;
 }
 
 .card {
     width: 300px;
-    height: 360px;
+    height: 403px;
     border: 3px solid #ffff;
     border-radius: 10px;
     padding: 10px;
@@ -190,4 +226,47 @@ h1 {
 .titulo-benef {
     text-align: left;
     padding: 0px;
+}
+
+.textos-tec-card {
+    text-align: justify;
+    width: 500px;
+}
+
+.card-tec2 {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 20px;
+}
+
+.tec-imgs {
+    height: 400px;
+    border-radius: 10px;
+}
+
+.card-obj {
+    display: flex;
+    text-align: justify;
+    border-radius: 10px;
+    width: 1100px;
+    padding: 20px 20px;
+    margin: 20px auto;
+    gap: 30px;
+}
+
+.img-ods {
+    height: 240px;
+    border-radius: 10px;
+}
+
+#c1 {
+    background-color: hsl(202, 46%, 73%);
+}
+
+#c2 {
+    background-color: #f1dfb8;
+}
+
+#c3 {
+    background-color: hsl(202, 46%, 73%);
 }
