@@ -1,14 +1,37 @@
-Ponto a Ponto
-Sobre o projeto:
-O Ponto a Ponto é uma plataforma que busca aproximar os cidadãos da gestão pública, permitindo o registro e a visualização de problemas urbanos, como buracos nas ruas, calçadas danificadas e iluminação precária.
+# 🌱 Ponto a Ponto
 
-Objetivo:
-Facilitar a comunicação entre a população e os responsáveis pela manutenção das cidades, contribuindo para espaços urbanos mais seguros e acessíveis.
+**Sua região tem voz. Você da visibilidade.**
 
-Tecnologias utilizadas:
+## 📍 Sobre o projeto
 
-HTML.
+O **Ponto a Ponto** é uma plataforma de participação cidadã que busca aproximar a população das questões urbanas presentes em suas comunidades. Por meio dela, os cidadãos podem registrar e visualizar problemas como buracos nas ruas, calçadas danificadas, alagamentos e iluminação precária.
 
-CSS.
+A proposta é transformar relatos individuais em informações organizadas e visíveis, incentivando a participação coletiva e contribuindo para uma melhor compreensão das necessidades de cada região.
 
-JavaScript puro.
+## 🎯 Objetivo
+
+Facilitar o registro, a visualização e a organização de ocorrências urbanas, promovendo a participação dos cidadãos e incentivando o diálogo entre a população e os responsáveis pela gestão das cidades.
+
+## ⚙️ Tecnologias utilizadas
+
+O projeto foi desenvolvido utilizando tecnologias fundamentais do desenvolvimento web:
+
+- **HTML5:** estruturação e organização do conteúdo das páginas.
+- **CSS3:** estilização, identidade visual, layout e responsividade da plataforma.
+- **JavaScript:** implementação da lógica e das interações do formulário de contribuição, permitindo o preenchimento e o tratamento das informações inseridas pelos usuários.
+
+## 💡 Funcionalidades
+
+- **Mapa / Radar:** visualização das ocorrências registradas, permitindo identificar problemas em diferentes regiões.
+- **Formulário de contribuição:** espaço para que os cidadãos registrem problemas urbanos e compartilhem informações sobre suas localidades.
+
+## 🌍 Objetivos de Desenvolvimento Sustentável (ODS)
+
+O Ponto a Ponto se conecta principalmente a duas iniciativas da ONU:
+
+- **ODS 11 — Cidades e Comunidades Sustentáveis:** incentivo à participação cidadã e à identificação de necessidades urbanas.
+- **ODS 16 — Paz, Justiça e Instituições Eficazes:** promoção do acesso à informação, participação social e transparência.
+
+## 👥 Desenvolvido por
+
+Projeto acadêmico desenvolvido em equipe como parte das atividades da FIAP.
