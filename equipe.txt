@@ -1,5 +1,5 @@
 LINK DO REPOSITÓRIO:
-https://github.com/joaogabdev/gs1.git
+https://github.com/GS-Ponto-a-Ponto/GS-Ponto-a-Ponto.git
 
 NOME DOS INTEGRANTES:
 Clara Franco Silva               RM573932
