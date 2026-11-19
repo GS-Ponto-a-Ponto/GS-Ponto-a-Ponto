@@ -4,6 +4,6 @@ https://github.com/joaogabdev/gs1.git
 NOME DOS INTEGRANTES:
 Clara Franco Silva               RM573932
 João Gabriel Santana de Souza    RM: 576019
-Davi Fernandes Siqueira - RM 575634
+Davi Fernandes Siqueira Serra - RM 575634
 José Roberto Torres Bastos - RM 573918
 Lucas da Hora de Brito - RM 576388
