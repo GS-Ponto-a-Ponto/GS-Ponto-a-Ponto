@@ -1,7 +1,7 @@
 # 🌱 Ponto a Ponto
 
 **Sua região tem voz. Você da visibilidade.**
-##Ficha da CitizenTech
+**Ficha da CitizenTech
 
 # Ponto a Ponto
 | Campo | Resposta |
