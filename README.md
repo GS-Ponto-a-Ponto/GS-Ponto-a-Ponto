@@ -1,6 +1,20 @@
 # 🌱 Ponto a Ponto
 
 **Sua região tem voz. Você da visibilidade.**
+##Ficha da CitizenTech
+
+# Ponto a Ponto
+| Campo | Resposta |
+|---|---|
+| **Nome da CitizenTech** | Ponto a Ponto |
+| **Cidade e bairro** | São Paulo - SP |
+| **Cidadão beneficiado** | Moradores das cidades que desejam ter suas demandas ouvidas e resolvidas |
+| **Problema, em uma frase** | A falta de visibilidade dos problemas urbanos dificulta uma resposta rápida da gestão pública. |
+| **Como funciona** | O morador registra um problema urbano (buraco, iluminação, lixo) pelo site, informando título e descrição, anexando uma imagem e marcando a localização no mapa. O sistema reúne as demandas e as exibe no mapa, dando visibilidade para a gestão pública acompanhar e resolver. |
+| **O que cada parte faz** | **Site (front-end):** formulário de registro (título, descrição, imagem e localização) e mapa interativo, feito com HTML, CSS e JavaScript. |
+| **Link do repositório** | https://github.com/GS-Ponto-a-Ponto/GS-Ponto-a-Ponto |
+| **Indicador de impacto** | **Linha de base:** cerca de 62% das demandas de tapa-buraco registradas no 1º semestre de 2026 foram resolvidas até agosto em São Paulo, e 38% seguiam sem atendimento (fonte: [inserir fonte]). **Meta:** aumentar o percentual de demandas resolvidas, dando visibilidade aos problemas para a gestão pública. |
+| **ODS conectados** | ODS 11 (Cidades e Comunidades Sustentáveis) e ODS 16 (Paz, Justiça e Instituições Eficazes) |
 
 ## 📍 Sobre o projeto
 
